@@ -2,16 +2,16 @@
 
 ## [1. Affiliate Marketing Data Analysis — Amazon Associates Case Study](https://github.com/habishua/Amazon_Affiliate_Earnings)
 
-### Objective
+## Objective
 Analyze affiliate sales data from the Amazon Associates program to identify factors that influence commission earnings and provide actionable recommendations for affiliates and marketing teams.
 
-### Skills & Tools
+## Skills & Tools
 - SQL, Excel, Python
 - Data Cleaning & Preparation
 - Data Visualization: Matplotlib
 - Business Analysis & Reporting
 
-### Process
+## Process
 #### Data Integration
 - Connected multiple tables using SQL joins based on product IDs and affiliate IDs.
 #### Exploratory Analysis
@@ -22,7 +22,7 @@ Analyze affiliate sales data from the Amazon Associates program to identify fact
 - Built charts showing commission structures, seasonal peaks, and product color trends.
 - Cleaned visuals for readability (consistent colors, clear legends).
 
-### Recommendations
+## Recommendations
 #### For Affiliates
 - Focus on electronics and neutral-colored products for steady earnings.
 - Time promotions for seasonal spikes (e.g., fitness gear in January).
