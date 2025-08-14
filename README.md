@@ -54,6 +54,6 @@ Analyze Tesla’s historical stock data (2010–2025) to uncover patterns in pri
 - Created bubble charts to explore relationships between volume, price, and returns.
 
 ## Recommendations
-- Monitor Major News Events
-- Consider Long-Term Investment
-- Don’t Rely on Volume or Price Alone
+- Monitor major news events
+- Consider long-term investment
+- Don’t rely on volume or price alone
