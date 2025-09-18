@@ -1,6 +1,36 @@
 # Data Analytics Projects
 
-## [1. Affiliate Marketing Data Analysis](https://github.com/habishua/Amazon_Affiliate_Earnings)
+
+## [1. Tesla Stock Performance Analysis](https://github.com/habishua/Tesla_Stock_Performance)
+
+## Objective
+Analyze Tesla’s historical stock data (2010–2025) to uncover patterns in price, trading volume, and daily returns, providing actionable insights for financial analysts and traders.
+
+## Skills & Tools
+- Excel
+- Time Series Analysis: Daily returns, moving averages, volatility
+- Data Visualization: Power BI
+- Business Analysis: Investment insights, risk assessment
+
+## Process
+#### Data Integration
+- Consolidated historical stock data and corporate events.
+#### Exploratory Analysis
+- Calculated daily returns and rolling averages.
+- Tracked price trends and seasonal spikes in volume.
+- Examined volatility and outlier days.
+#### Visualization
+- Designed an interactive dashboard for dynamic exploration.
+- Plotted closing price trends, trading volumes, and daily returns.
+- Created bubble charts to explore relationships between volume, price, and returns.
+
+## Recommendations
+- Monitor major news events
+- Consider long-term investment
+- Don’t rely on volume or price alone
+
+
+## [2. Affiliate Marketing Data Analysis](https://github.com/habishua/Amazon_Affiliate_Earnings)
 
 ## Objective
 Analyze affiliate sales data from the Amazon Associates program to identify factors that influence commission earnings and provide actionable recommendations for affiliates and marketing teams.
@@ -28,32 +58,3 @@ Analyze affiliate sales data from the Amazon Associates program to identify fact
 - Time promotions for seasonal spikes (e.g., fitness gear in January).
 #### For Marketing Teams
 - Maintain tiered commission structures to incentivize higher sales volumes and drive affiliate engagement.
-
-  
-## [2. Tesla Stock Performance Analysis](https://github.com/habishua/Tesla_Stock_Performance)
-
-## Objective
-Analyze Tesla’s historical stock data (2010–2025) to uncover patterns in price, trading volume, and daily returns, providing actionable insights for financial analysts and traders.
-
-## Skills & Tools
-- Excel
-- Time Series Analysis: Daily returns, moving averages, volatility
-- Data Visualization: Power BI
-- Business Analysis: Investment insights, risk assessment
-
-## Process
-#### Data Integration
-- Consolidated historical stock data and corporate events.
-#### Exploratory Analysis
-- Calculated daily returns and rolling averages.
-- Tracked price trends and seasonal spikes in volume.
-- Examined volatility and outlier days.
-#### Visualization
-- Designed an interactive dashboard for dynamic exploration.
-- Plotted closing price trends, trading volumes, and daily returns.
-- Created bubble charts to explore relationships between volume, price, and returns.
-
-## Recommendations
-- Monitor major news events
-- Consider long-term investment
-- Don’t rely on volume or price alone
